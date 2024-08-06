@@ -17,4 +17,4 @@ The user can choose between Products, Tags, or Categories and interact with the 
 ## Links
 [GitHub-repo](https://github.com/lllewell/e-commerce-back-end-orm)
 
-[walkthrough-video](https://drive.google.com/file/d/1sabfGVV3XBBJBDpNy_YeSd81JxtWCjcv/view?usp=sharing)
+[walkthrough-video](https://drive.google.com/file/d/1SehPNg8AR6iZIv-xiPw5TZdt21eOfzHu/view?usp=sharing)
